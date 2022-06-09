@@ -10,3 +10,5 @@ Verilog 코드 입니다.
 - HardWare Efficient한 Deep Learning
   - Convolution 연산 중에서 가장 power consumption이 작은 모듈을 찾기 위하여 공부 중
   - 관련 코드는 VLSI에 있습니다.
+  - 
+![image](https://user-images.githubusercontent.com/101409953/172798041-9b44cb83-4f65-4b6d-8d95-d501d825576a.png)
