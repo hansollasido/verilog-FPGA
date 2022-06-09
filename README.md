@@ -7,3 +7,6 @@ Verilog 코드 입니다.
 - [VLSI](https://www.notion.so/VLSI-77be9e1d45ce40f7b22c62d29572e655)
 - HardWare - Efficient한 Accelerator 만들기
 
+- HardWare Efficient한 Deep Learning
+  - Convolution 연산 중에서 가장 power consumption이 작은 모듈을 찾기 위하여 공부 중
+  - 관련 코드는 VLSI에 있습니다.
